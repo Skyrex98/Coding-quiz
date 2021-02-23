@@ -1,0 +1,22 @@
+html {
+  margin: 0;
+  padding: 0;
+}
+.main-container {
+  background-color: aqua;
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  width: 100%;
+}
+.description-container {
+  text-align: center;
+}
+.top-margin {
+  margin: 0;
+  padding: 0;
+  height: 100px;
+}
+.question-box {
+  text-align: left;
+}
